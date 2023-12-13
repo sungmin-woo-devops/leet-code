@@ -1,7 +1,7 @@
 # leet-code
 Practice and Discussion
 //Top Interview 150 
-// 88. Merge Sorted Array 
+// 88. Merge Sorted Array (Java)
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int i = m - 1; 
