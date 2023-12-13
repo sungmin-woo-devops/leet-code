@@ -4,6 +4,6 @@ Practice and Discussion
 
 88. Merge Sorted (Solved)
   [88.](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)
-  [code](https://github.com/sungmin-woo-devops/leet-code/blob/main/88.Merge%20Sorted)
+  [Answer code](https://github.com/sungmin-woo-devops/leet-code/blob/main/88.Merge%20Sorted)
 
 
